@@ -1,0 +1,27 @@
+h1 {
+font-size: 100px;
+background-color: brown;
+margin: 30px
+
+}
+body{
+    background-image: url('tim.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.button {
+    font-size: 60px; 
+    padding: 15px 30px; 
+    margin: 50px;
+    background-color: blueviolet;
+}
+h3 {
+    font-size: 50px;
+    background-color: greenyellow;
+    margin: 50px
+}
+.box {
+    font-size: 70px;
+ background-color: black;
+ margin: 50px
+}
